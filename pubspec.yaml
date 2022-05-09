@@ -1,0 +1,23 @@
+name: ether_wallet
+description: ether wallet for web
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  provider:
+  fluttertoast: ^8.0.9
+  http: ^0.13.4
+  web3dart: ^2.3.5
+
+dev_dependencies:
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true

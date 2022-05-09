@@ -1,0 +1,15 @@
+{
+    "name": "ether_wallet",
+    "description": "ether wallet for web",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "index.html",
+        "default_icon": {
+            "16": "icons/icon-192.png",
+            "32": "icons/icon-192.png",
+            "48": "icons/icon-192.png",
+            "128": "icons/icon-192.png"
+        }
+    }
+}
